@@ -1,5 +1,4 @@
 {
-  "Acknowledgements": "Curated and added to TemplateFlow by Ciric R, Markiewicz CJ, and Esteban O",
   "Authors": [
     "Fonov V",
     "Evans AC",
@@ -9,7 +8,11 @@
     "Collins DL"
   ],
   "BIDSVersion": "1.1.0",
-  "HowToAcknowledge": "Reference the following entries from the ReferencesAndLinks field: {1}",
+  "Curators": [
+    "iric R",
+    "Markiewicz CJ",
+    "Esteban O"
+  ],
   "Identifier": "MNIInfant",
   "License": "See LICENSE file",
   "Name": "MNI Unbiased nonlinear Infant Atlases 0-4.5yr.",
